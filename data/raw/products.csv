@@ -1,0 +1,73 @@
+product_id,product_name,brand,category,sub_category,unit_price,unit_cost
+P0001,Laptop,Nova,Electronics,General,15289.72,4656.6
+P0002,Laptop,Apex,Electronics,General,73831.4,9871.1
+P0003,Laptop,Zenith,Electronics,General,12768.59,3601.77
+P0004,Smartphone,Nova,Electronics,General,12255.06,1783.26
+P0005,Smartphone,Apex,Electronics,General,44853.49,9146.73
+P0006,Smartphone,Zenith,Electronics,General,6397.05,1804.25
+P0007,Headphones,Nova,Electronics,General,56366.33,14361.23
+P0008,Headphones,Apex,Electronics,General,28773.55,5587.79
+P0009,Headphones,Zenith,Electronics,General,82954.19,23927.39
+P0010,Keyboard,Nova,Electronics,General,37274.6,9953.48
+P0011,Keyboard,Apex,Electronics,General,41540.2,8016.23
+P0012,Keyboard,Zenith,Electronics,General,60183.75,15001.09
+P0013,Mouse,Nova,Electronics,General,75643.62,19754.56
+P0014,Mouse,Apex,Electronics,General,30490.97,8326.24
+P0015,Mouse,Zenith,Electronics,General,69275.0,14341.89
+P0016,Smartwatch,Nova,Electronics,General,62456.07,11725.44
+P0017,Smartwatch,Apex,Electronics,General,15310.78,1843.62
+P0018,Smartwatch,Zenith,Electronics,General,59745.22,15040.98
+P0019,T-Shirt,Nova,Clothing,General,72351.65,21509.49
+P0020,T-Shirt,Apex,Clothing,General,48344.16,7825.89
+P0021,T-Shirt,Zenith,Clothing,General,27218.88,8329.67
+P0022,Jeans,Nova,Clothing,General,52064.55,13907.42
+P0023,Jeans,Apex,Clothing,General,9073.34,2124.27
+P0024,Jeans,Zenith,Clothing,General,28316.52,3904.72
+P0025,Jacket,Nova,Clothing,General,29642.16,5735.44
+P0026,Jacket,Apex,Clothing,General,54166.83,18498.42
+P0027,Jacket,Zenith,Clothing,General,69885.84,19156.1
+P0028,Sneakers,Nova,Clothing,General,62056.98,12239.03
+P0029,Sneakers,Apex,Clothing,General,1215.78,204.53
+P0030,Sneakers,Zenith,Clothing,General,58996.67,11835.36
+P0031,Backpack,Nova,Clothing,General,66949.95,19127.27
+P0032,Backpack,Apex,Clothing,General,4330.5,956.13
+P0033,Backpack,Zenith,Clothing,General,35815.61,5668.1
+P0034,Chair,Nova,Home,General,35338.12,11407.4
+P0035,Chair,Apex,Home,General,30016.84,6193.37
+P0036,Chair,Zenith,Home,General,70491.39,21246.66
+P0037,Desk Lamp,Nova,Home,General,49240.2,14496.12
+P0038,Desk Lamp,Apex,Home,General,19368.14,4334.51
+P0039,Desk Lamp,Zenith,Home,General,67981.74,8680.24
+P0040,Coffee Maker,Nova,Home,General,1951.61,351.41
+P0041,Coffee Maker,Apex,Home,General,9125.45,1812.46
+P0042,Coffee Maker,Zenith,Home,General,75502.17,11854.45
+P0043,Bedsheet,Nova,Home,General,6606.46,2223.88
+P0044,Bedsheet,Apex,Home,General,83139.02,16438.96
+P0045,Bedsheet,Zenith,Home,General,83752.15,27256.47
+P0046,Storage Box,Nova,Home,General,59956.77,13142.79
+P0047,Storage Box,Apex,Home,General,55645.58,14450.21
+P0048,Storage Box,Zenith,Home,General,37048.48,4902.17
+P0049,Face Wash,Nova,Beauty,General,28310.27,9741.89
+P0050,Face Wash,Apex,Beauty,General,34936.47,8644.88
+P0051,Face Wash,Zenith,Beauty,General,78692.36,19218.94
+P0052,Moisturizer,Nova,Beauty,General,56235.67,10594.92
+P0053,Moisturizer,Apex,Beauty,General,8378.87,1762.64
+P0054,Moisturizer,Zenith,Beauty,General,46833.91,10908.47
+P0055,Shampoo,Nova,Beauty,General,4869.29,588.59
+P0056,Shampoo,Apex,Beauty,General,7676.5,2375.85
+P0057,Shampoo,Zenith,Beauty,General,53226.46,12267.4
+P0058,Perfume,Nova,Beauty,General,8469.64,1419.5
+P0059,Perfume,Apex,Beauty,General,54336.66,18731.11
+P0060,Perfume,Zenith,Beauty,General,40385.11,5919.13
+P0061,Yoga Mat,Nova,Sports,General,66768.29,15244.35
+P0062,Yoga Mat,Apex,Sports,General,76090.87,13768.72
+P0063,Yoga Mat,Zenith,Sports,General,54648.18,11428.64
+P0064,Running Shoes,Nova,Sports,General,31693.99,6583.87
+P0065,Running Shoes,Apex,Sports,General,16062.9,2092.38
+P0066,Running Shoes,Zenith,Sports,General,37518.0,6775.08
+P0067,Cricket Bat,Nova,Sports,General,71192.42,17782.21
+P0068,Cricket Bat,Apex,Sports,General,13058.32,3658.79
+P0069,Cricket Bat,Zenith,Sports,General,8445.55,2311.31
+P0070,Water Bottle,Nova,Sports,General,68743.27,14794.72
+P0071,Water Bottle,Apex,Sports,General,64359.72,11090.98
+P0072,Water Bottle,Zenith,Sports,General,5418.37,1132.63

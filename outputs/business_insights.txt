@@ -1,0 +1,5 @@
+- Top revenue category: Electronics with revenue ₹328,178,044.94.
+- Top product by revenue: Bedsheet with ₹38,156,653.23.
+- Top location: New Delhi, Delhi with revenue ₹229,183,958.75.
+- Premium customers: 203 (20.4% of mined customers).
+- Strongest product association: Desk Lamp -> Running Shoes (confidence 13.4%, lift 1.17).
